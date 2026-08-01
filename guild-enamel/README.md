@@ -4,6 +4,8 @@ Metal-and-enamel achievement badges — achievement badges, distance milestones,
 
 Part of the [Illustration Skills](../README.md) collection.
 
+**📺 Watch the walkthrough:** [youtu.be/J_Cum67TpNA](https://youtu.be/J_Cum67TpNA) — full setup, start to finish.
+
 <p align="center">
   <img src="references/base-badge-numerals.png" alt="Guild Enamel achievement badges and distance milestones" width="32%">
   <img src="references/streak-chips.png" alt="Guild Enamel streak chips" width="32%">

@@ -12,6 +12,8 @@ A growing collection of **illustration skills** — ready-made instruction sets 
 
 **Guild Enamel** (metal-and-enamel achievement badges) is the first one. More are on the way.
 
+**📺 Watch the walkthrough:** [youtu.be/J_Cum67TpNA](https://youtu.be/J_Cum67TpNA) — full setup, start to finish.
+
 ## What this is, in plain English
 
 If you ask ChatGPT for an image, then ask again, you'll usually get two images that don't quite look like they belong together — different style, different colors, different quality. That's fine for a one-off, but useless if you need a whole *family* of on-brand images: a set of badges, a set of icons, a set of illustrations for a website.

@@ -6,6 +6,6 @@ The specific visual designs in `references/` and `assets/` — the exact enamel 
 
 ## Third-party trademarks
 
-`assets/logo-mark.png` is the Strava chevron logo. The Strava name and logo are trademarks of Strava, Inc. — all rights reserved. It's included here solely as a worked example of "attach your own logo mark to the message" (see `guild-enamel/README.md`), for personal, educational, non-commercial demonstration purposes. This project is not affiliated with, sponsored by, or endorsed by Strava, Inc. If you fork this repo, replace this file with your own brand's logo rather than reusing it.
+The badges photographed in `references/` (and shown in the [tutorial video](https://youtu.be/J_Cum67TpNA)) were generated using the Strava chevron as the embossed logo hallmark, to demonstrate the workflow. The Strava name and logo are trademarks of Strava, Inc. — all rights reserved. Their appearance here is for personal, educational, non-commercial demonstration purposes only. This project is not affiliated with, sponsored by, or endorsed by Strava, Inc.
 
-`assets/logo-mark-reskin.png` is an original mark and isn't affected by the above.
+`assets/logo-mark.png` is an original mark (Made By Chip) and isn't affected by the above — it's a genuine example of "attach your own logo mark to the message," see `guild-enamel/README.md`.
