@@ -29,7 +29,7 @@ Generates a consistent family of metal-and-enamel achievement badges from short 
 ```
 SHAPE = octagon (badges/milestones only — streak chips are always circle)
 BORDER_MM = 4mm
-PRIMARY_HEX = match the orange enamel shown in the reference images
+PRIMARY_HEX = #FA4D1F
 ACCENT_HEX_1 = #CC4200
 ACCENT_HEX_2 = #FFFFFF
 ```
@@ -53,8 +53,10 @@ If your brand has only one accent color, drop ACCENT_HEX_2 and use cream #F2EFE8
 ```
 Generate a reference image of the Guild Enamel [FAMILY], matching the
 attached reference image(s) exactly for silhouette, lattice, material,
-lighting, camera angle, and the brand colors above. The only change
-from the reference is: [WHAT VARIES].
+lighting, and camera angle. Use these enamel colors exactly, even where
+they differ from the attached reference image(s): center diamond =
+PRIMARY_HEX, top+bottom cells = ACCENT_HEX_1, left+right cells =
+ACCENT_HEX_2. The only other change from the reference is: [WHAT VARIES].
 
 [If a numeral: horizontally center on the badge's vertical axis, with
 equal clearance to both sides regardless of digit count.]
