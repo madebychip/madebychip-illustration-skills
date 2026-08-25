@@ -10,7 +10,7 @@
 
 A growing collection of **illustration skills**—ready-made instruction sets you paste into a ChatGPT Project to generate a consistent, on-brand family of illustrations, over and over, without opening a design tool.
 
-**Guild Enamel** (metal-and-enamel achievement badges) is the first one. More are on the way.
+**Guild Enamel** (metal-and-enamel achievement badges) is the first one. **Premium 3D Claymorphism** (soft-molded 3D icons) is the second. More are on the way.
 
 **📺 Watch the walkthrough:** [youtu.be/J_Cum67TpNA](https://youtu.be/J_Cum67TpNA)—full setup, start to finish.
 
@@ -27,7 +27,12 @@ No design software. No design background needed. Just a ChatGPT account (the fre
 | Skill | What it makes | Setup guide |
 |---|---|---|
 | **Guild Enamel** | Metal-and-enamel achievement badges—achievement badges, distance milestones, streak chips, and limited editions | [guild-enamel/README.md](guild-enamel/README.md) |
+| **Premium 3D Claymorphism** | Soft-molded, premium 3D icons—calendars, location pins, phone calls, car repair, and anything else you can describe in a sentence | [premium-3d-claymorphism/README.md](premium-3d-claymorphism/README.md) |
 | *More coming soon* |—|—|
+
+<p align="center">
+  <img src="assets/premium-3d-claymorphism-banner.svg" alt="Premium 3D Claymorphism—soft-molded 3D icon system" width="100%">
+</p>
 
 ## How every skill is put together
 
@@ -59,6 +64,6 @@ Some example reference images are licensed separately—check each skill's `IP-N
 
 ## About
 
-Made by [Chip](https://madebychip.com). Guild Enamel is the first of several illustration skills I'm planning to open-source—if this is useful, watch this repo to catch the next one.
+Made by [Chip](https://madebychip.com). Guild Enamel and Premium 3D Claymorphism are the first two of several illustration skills I'm planning to open-source—if this is useful, watch this repo to catch the next one.
 
 If you build something with this, I'd love to see it—open an issue or [get in touch](https://madebychip.com).
